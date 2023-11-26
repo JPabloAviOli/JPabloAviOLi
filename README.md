@@ -61,7 +61,7 @@
     <a href="https://twitter.com/DevJpao" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="x"/>
     </a>
-      <a href="https://www.tiktok.com/@jpavioli" target="_blank">
+      <a href="https://www.tiktok.com/@jpavioli"target="_blank">
       <img src="https://img.shields.io/badge/TikTok-3E3333.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
     </a>
    
