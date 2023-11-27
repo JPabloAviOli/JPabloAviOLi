@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,idea,java,js,mysql,postgresql,spring,eclipse,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,github,html,idea,java,js,mysql,postgresql,spring,eclipse,postman,vscode&perline=14" />
   </a>
    <p align="center">
      <a href="https://hibernate.org/" target="_blank"> 
