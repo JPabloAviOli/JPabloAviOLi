@@ -2,8 +2,10 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <h2>Sobre mí</h2>
  <ul>
-   <li>Desarrollador Java Backend. Tengo conocimientos en Java 8, 11, 17 y SQL.</li>
-   <li>Trabajo con Spring Boot, Spring Security + JWT.</li>
+   <li>Desarrollador Java Backend. Especialista en Java(8, 11, 17),POO.</li>
+   <li>Spring Boot, Spring Security + JWT.</li>
+  <li>Spring Cloud</li>
+    <li>App monoliticas y microservicios</li>
    <li>JPA + Hibernate.</li>
    <li>Patrones de diseño.</li>
  </ul> 
