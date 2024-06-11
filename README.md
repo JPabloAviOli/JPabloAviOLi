@@ -1,5 +1,6 @@
 <h1 align="center">¡Hola 👋, soy Pablo!</h1>
-<img align="right" alt="Coding" width="300" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://github.com/JPabloAviOli/JPabloAviOLi/assets/142755343/f5c33246-b293-4a78-b434-a741767d6db8)">
+<img align="right" alt="Coding" width="300" src="https://github.com/JPabloAviOli/JPabloAviOLi/assets/142755343/f5c33246-b293-4a78-b434-a741767d6db8">
+<hr>
 <h2>Sobre mí</h2>
  <p>Soy un desarrollador Java Backend Jr. especializado en tecnologías claves para el desarrollo de aplicaciones. Tengo experiencia en el uso de Java (8, 11, 17), Spring Boot y Spring Cloud para crear aplicaciones monolíticas o micro-servicios. Además, tengo habilidades en el manejo de bases de datos utilizando JPA y Hibernate para consultas personalizadas, y en la implementación de seguridad con Spring Security y JWT.
 
