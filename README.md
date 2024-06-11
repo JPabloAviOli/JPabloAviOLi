@@ -1,9 +1,10 @@
 <h1 align="center">¡Hola 👋, soy Pablo!</h1>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="300" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://github.com/JPabloAviOli/JPabloAviOLi/assets/142755343/f5c33246-b293-4a78-b434-a741767d6db8)">
 <h2>Sobre mí</h2>
  <p>Soy un desarrollador Java Backend Jr. especializado en tecnologías claves para el desarrollo de aplicaciones. Tengo experiencia en el uso de Java (8, 11, 17), Spring Boot y Spring Cloud para crear aplicaciones monolíticas o micro-servicios. Además, tengo habilidades en el manejo de bases de datos utilizando JPA y Hibernate para consultas personalizadas, y en la implementación de seguridad con Spring Security y JWT.
 
-En el proceso de desarrollo, me adhiero a las mejores prácticas y empleo patrones de diseño. Para asegurar la calidad del código, realizo pruebas unitarias utilizando JUnit 5 y simulo interacciones con Mockito. Además, utilizo SQL para la manipulación de datos y la realización de pruebas de integración.
+En el proceso de desarrollo, me adhiero a las mejores prácticas y empleo patrones de diseño. Para
+a asegurar la calidad del código, realizo pruebas unitarias utilizando JUnit 5 y simulo interacciones con Mockito. Además, utilizo SQL para la manipulación de datos y la realización de pruebas de integración.
 
 Además, tengo experiencia en el uso de Docker para la creación y administración de entornos de desarrollo y despliegue. Utilizo contenedores Docker para empaquetar mis aplicaciones Java, lo que facilita la creación de entornos de desarrollo consistentes y reproducibles. Esto garantiza que mis aplicaciones funcionen de la misma manera en cualquier entorno, desde mi máquina local hasta el servidor de producción. Además, aprovecho las capacidades de Docker Compose para orquestar múltiples contenedores y simplificar el despliegue de aplicaciones complejas compuestas por varios servicios.
 
