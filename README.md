@@ -27,7 +27,7 @@ Trabajo de manera eficiente bajo metodologías ágiles como Scrum y Kanban.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,idea,java,js,mysql,postgresql,spring,eclipse,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,github,html,idea,java,mysql,postgresql,spring,eclipse,postman,vscode&perline=14" />
   </a>
    <p align="center">
      <a href="https://hibernate.org/" target="_blank"> 
