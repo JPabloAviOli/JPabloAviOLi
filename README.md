@@ -1,8 +1,7 @@
 <h1 align="center">¡Hola 👋, soy Pablo!</h1>
 <img align="right" alt="Coding" width="300" src="https://github.com/JPabloAviOli/JPabloAviOLi/assets/142755343/f5c33246-b293-4a78-b434-a741767d6db8">
-<hr>
-<h2>Sobre mí</h2>
- <p>Soy un desarrollador Java Backend Jr. especializado en tecnologías claves para el desarrollo de aplicaciones. Tengo experiencia en el uso de Java (8, 11, 17), Spring Boot y Spring Cloud para crear aplicaciones monolíticas o micro-servicios. Además, tengo habilidades en el manejo de bases de datos utilizando JPA y Hibernate para consultas personalizadas, y en la implementación de seguridad con Spring Security y JWT.
+
+ <p>Desarrollador Java Backend Jr. especializado en tecnologías claves para el desarrollo de aplicaciones. Tengo experiencia en el uso de Java (8, 11, 17), Spring Boot y Spring Cloud para crear aplicaciones monolíticas o micro-servicios. Además, tengo habilidades en el manejo de bases de datos utilizando JPA y Hibernate para consultas personalizadas, y en la implementación de seguridad con Spring Security y JWT.
 
 En el proceso de desarrollo, me adhiero a las mejores prácticas y empleo patrones de diseño. Para
 a asegurar la calidad del código, realizo pruebas unitarias utilizando JUnit 5 y simulo interacciones con Mockito. Además, utilizo SQL para la manipulación de datos y la realización de pruebas de integración.
@@ -11,10 +10,7 @@ Además, tengo experiencia en el uso de Docker para la creación y administraci�
 
 Trabajo de manera eficiente bajo metodologías ágiles como Scrum y Kanban.</p>
 
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 <!--h1 without bottom border-->
 <br>
@@ -27,7 +23,7 @@ Trabajo de manera eficiente bajo metodologías ágiles como Scrum y Kanban.</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,idea,java,mysql,postgresql,spring,eclipse,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,github,html,idea,java,docker,hibernate,mysql,postgresql,spring,eclipse,postman,vscode&perline=14" />
   </a>
    <p align="center">
      <a href="https://hibernate.org/" target="_blank"> 
@@ -71,13 +67,8 @@ Trabajo de manera eficiente bajo metodologías ágiles como Scrum y Kanban.</p>
 
 
 ![focus](https://img.shields.io/badge/backend-brightgreen)
-
-
 <br />
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=JPabloAviOli&show_icons=true)](https://github.com/JPabloAviOLi)
-
-----
 
 
 
