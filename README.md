@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola 👋, soy Pablo!</h1>
-<img align="right" alt="Coding" width="300" src="https://github.com/JPabloAviOli/JPabloAviOLi/assets/142755343/f5c33246-b293-4a78-b434-a741767d6db8">
 
- <p>Desarrollador Java Backend Jr. especializado en tecnologías claves para el desarrollo de aplicaciones. Tengo experiencia en el uso de Java (8, 11, 17), Spring Boot y Spring Cloud para crear aplicaciones monolíticas o micro-servicios. Además, tengo habilidades en el manejo de bases de datos utilizando JPA y Hibernate para consultas personalizadas, y en la implementación de seguridad con Spring Security y JWT.
+ <p>Desarrollador Java Backend Jr. especializado en tecnologías claves para el desarrollo de apl![Uploading image_1751692993082.jpeg…]()
+icaciones. Tengo experiencia en el uso de Java (8, 11, 17), Spring Boot y Spring Cloud para crear aplicaciones monolíticas o micro-servicios. Además, tengo habilidades en el manejo de bases de datos utilizando JPA y Hibernate para consultas personalizadas, y en la implementación de seguridad con Spring Security y JWT.
 
 En el proceso de desarrollo, me adhiero a las mejores prácticas y empleo patrones de diseño. Para
 a asegurar la calidad del código, realizo pruebas unitarias utilizando JUnit 5 y simulo interacciones con Mockito. Además, utilizo SQL para la manipulación de datos y la realización de pruebas de integración.
