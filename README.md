@@ -1,8 +1,13 @@
 <h1 align="center">¡Hola, soy Pablo!</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9d19c15a-1d10-4e57-93f1-8c6e27ab9d6f" width="200px" alt="Descripción de la imagen" />
+  <img 
+    src="https://github.com/user-attachments/assets/9d19c15a-1d10-4e57-93f1-8c6e27ab9d6f" 
+    width="200px" 
+    border-radius="100%" 
+    alt="Descripción de la imagen" />
 </div>
+
 
 <br/>
 
