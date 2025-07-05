@@ -10,7 +10,6 @@ Además, tengo experiencia en el uso de Docker para la creación y administraci�
 
 Trabajo de manera eficiente bajo metodologías ágiles como Scrum y Kanban.</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <!--h1 without bottom border-->
 <br>
