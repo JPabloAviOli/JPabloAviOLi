@@ -4,10 +4,8 @@
   <img 
     src="https://github.com/user-attachments/assets/9d19c15a-1d10-4e57-93f1-8c6e27ab9d6f" 
     width="200px" 
-    border-radius="100%" 
-    alt="Descripción de la imagen" />
+    alt="Logo MAM" />
 </div>
-
 
 <br/>
 
@@ -72,7 +70,7 @@ Finalmente, me adapto bien a equipos de trabajo bajo metodologías ágiles como 
   </ul>
 </div>
 
-<div style="margin-top:10px" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/pablo-avila-olivar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
